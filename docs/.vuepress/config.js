@@ -12,8 +12,14 @@ module.exports = {
         collapsable: false,
         children: [
           '/examples/take-homes/',
-          '/examples/take-homes/backend',
-          '/examples/take-homes/frontend',
+          '/examples/take-homes/button',
+          '/examples/take-homes/calendar',
+          '/examples/take-homes/giphy',
+          '/examples/take-homes/idea-box',
+          '/examples/take-homes/name-in-a-hat',
+          '/examples/take-homes/site-replication',
+          '/examples/take-homes/to-do-list',
+          '/examples/take-homes/weather',
         ]
       },
       {
@@ -21,8 +27,6 @@ module.exports = {
         collapsable: false,
         children: [
           '/examples/personal-projects/',
-          '/examples/personal-projects/backend',
-          '/examples/personal-projects/frontend',
         ]
       }
     ]
