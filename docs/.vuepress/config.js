@@ -1,18 +1,30 @@
 module.exports = {
-  title: 'Hello VuePress',
+  title: 'Perpro',
   description: 'Just playing around',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Guide', link: '/guide/' },
-      { text: 'External', link: 'https://google.com' },
+      { text: 'Examples', link: '/examples/' },
     ],
-    sidebar: {
-      '/guide/': [
-        '',
-        'frontend',
-        'backend',
-      ],
-    }
+    sidebar: [
+      {
+        title: 'Take Homes',
+        collapsable: false,
+        children: [
+          '/examples/take-homes/',
+          '/examples/take-homes/backend',
+          '/examples/take-homes/frontend',
+        ]
+      },
+      {
+        title: 'Projects',
+        collapsable: false,
+        children: [
+          '/examples/personal-projects/',
+          '/examples/personal-projects/backend',
+          '/examples/personal-projects/frontend',
+        ]
+      }
+    ]
   }
 }
