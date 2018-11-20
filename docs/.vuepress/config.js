@@ -31,14 +31,13 @@ module.exports = {
           '/examples/personal-projects/',
           '/examples/personal-projects/audio-player',
           '/examples/personal-projects/breakout',
+          '/examples/personal-projects/chat-app',
           '/examples/personal-projects/finance-app',
           '/examples/personal-projects/graphql',
           '/examples/personal-projects/kanban-board',
-          '/examples/personal-projects/messaging-app',
           '/examples/personal-projects/responsive-website',
           '/examples/personal-projects/serverless',
           '/examples/personal-projects/web-scraping',
-          '/examples/personal-projects/webpack',
         ]
       }
     ]
