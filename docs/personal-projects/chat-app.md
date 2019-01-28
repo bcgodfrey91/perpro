@@ -1,6 +1,6 @@
 # Chat App
 
-Progressive Web Apps, or apps that use modern web capabilities to deliver an app-like experience, are gaining more and more traction. Heck, even Apple decided to add suport for them on iOS earlier in 2018 (https://medium.com/@firt/progressive-web-apps-on-ios-are-here-d00430dee3a7). For this application, you should the allow the user to sign up/log in, save users into a firebase database, and add the ability to search messages by user or message content,
+Progressive Web Apps, or apps that use modern web capabilities to deliver an app-like experience, are gaining more and more traction. Heck, even Apple decided to add suport for them on iOS [earlier in 2018](https://medium.com/@firt/progressive-web-apps-on-ios-are-here-d00430dee3a7). For this application, you should the allow the user to sign up/log in, save users into a firebase database, and add the ability to search messages by user or message content,
 
 Learning opportunities:
 - User accounts and authentication
