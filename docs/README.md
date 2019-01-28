@@ -1,13 +1,13 @@
 ---
 home: true
-actionText: Get Started →
+actionText: Start Something New →
 actionLink: /examples/
 features:
-- title: Simplicity First
-  details: Minimal setup with markdown-centered project structure helps you focus on writing.
-- title: Vue-Powered
-  details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
-- title: Performant
-  details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
-footer: MIT Licensed | Copyright © 2018-present Evan You
+- title: Discover
+  details: Find ideas to spark your next portfolio piece, side project, or coding challenge for prospective employees.
+- title: Build
+  details: Pick your outline, open your code editor, and dive into building your next great project.
+- title: Grow
+  details: Once you've completed your app, take what you've learned and use it to grow into a badass front end dev!
+footer: Find me on Github - @bcgodfrey91
 ---

@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Perpro',
-  description: 'Just playing around',
+  description: 'A place for personal project and coding challenge ideas.',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
