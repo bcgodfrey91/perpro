@@ -1,7 +1,7 @@
 ---
 home: true
 actionText: Start Something New →
-actionLink: /examples/
+actionLink: /personal-projects/
 features:
 - title: Discover
   details: Find ideas to spark your next portfolio piece, side project, or coding challenge for prospective employees.

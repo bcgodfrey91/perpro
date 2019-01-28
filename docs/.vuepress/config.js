@@ -4,42 +4,35 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/examples/' },
+      { text: 'Personal Projects', link: '/personal-projects/' },
+      { text: 'Take Homes', link: '/take-homes/'},
     ],
-    sidebar: [
-      {
-        title: 'Take Homes',
-        collapsable: false,
-        children: [
-          '/examples/take-homes/',
-          '/examples/take-homes/beer',
-          '/examples/take-homes/button',
-          '/examples/take-homes/calendar',
-          '/examples/take-homes/drag-and-drop',
-          '/examples/take-homes/giphy',
-          '/examples/take-homes/idea-box',
-          '/examples/take-homes/name-in-a-hat',
-          '/examples/take-homes/site-replication',
-          '/examples/take-homes/to-do-list',
-          '/examples/take-homes/weather',
-        ]
-      },
-      {
-        title: 'Projects',
-        collapsable: false,
-        children: [
-          '/examples/personal-projects/',
-          '/examples/personal-projects/audio-player',
-          '/examples/personal-projects/breakout',
-          '/examples/personal-projects/chat-app',
-          '/examples/personal-projects/finance-app',
-          '/examples/personal-projects/graphql',
-          '/examples/personal-projects/kanban-board',
-          '/examples/personal-projects/responsive-website',
-          '/examples/personal-projects/serverless',
-          '/examples/personal-projects/web-scraping',
-        ]
-      }
-    ]
+    sidebar: {
+      '/personal-projects/': [
+        '',
+        'audio-player',
+        'breakout',
+        'chat-app',
+        'finance-app',
+        'graphql',
+        'kanban-board',
+        'responsive-website',
+        'serverless',
+        'web-scraping',
+      ],
+      '/take-homes/': [
+        '',
+        'beer',
+        'button',
+        'calendar',
+        'drag-and-drop',
+        'giphy',
+        'idea-box',
+        'name-in-a-hat',
+        'site-replication',
+        'to-do-list',
+        'weather',
+      ]
+    }
   }
 }
