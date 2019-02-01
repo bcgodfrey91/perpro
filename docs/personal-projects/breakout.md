@@ -6,7 +6,6 @@ This may be an example you've seen before, as it's a pretty classic project from
 - Vanilla Javascript
 - Canvas
 
-
 **Take it to the next level:**
 - Add powerups
 - Add different styles of tiles

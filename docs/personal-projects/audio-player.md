@@ -4,7 +4,7 @@ Electron applications are a great way to build desktop applications with web tec
 
 **Learning opportunities:**
 - Building a desktop application
-- Accessing data from a user's file system
+- Pulling in data from a user's file system
 - Setting and getting data from localstorage
 
 **Take it to the next level:**
