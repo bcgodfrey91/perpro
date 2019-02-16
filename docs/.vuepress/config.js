@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Perpro',
-  description: 'A place for personal project and coding challenge ideas.',
+  description: 'A place for discovering personal project and coding challenge ideas for front end developers.',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
@@ -16,9 +16,8 @@ module.exports = {
         'finance-app',
         'graphql',
         'kanban-board',
-        'responsive-website',
+        'portfolio',
         'serverless',
-        'web-scraping',
       ],
       '/take-homes/': [
         '',

@@ -8,5 +8,5 @@ This may be an example you've seen before, as it's a pretty classic project from
 
 **Take it to the next level:**
 - Add powerups
-- Add different styles of tiles
-  - For example, some tiles might take two hits to break instead of one
+- Add different types of tiles
+  - For example: some tiles might take two hits to break instead of one
