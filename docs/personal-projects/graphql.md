@@ -6,7 +6,7 @@ GraphQL is a query language that's making developers rethink the way they send a
 - GraphQL
 - Hapi
 - MongoDB
-- Building a front and backend
+- Building a front and backend that work together
 
 **Take it to the next level:**
 - This is a pretty intensive CRUD app, so let's skip the extra features for now 😉

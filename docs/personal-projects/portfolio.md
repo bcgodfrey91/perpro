@@ -7,4 +7,8 @@ This should go without saying, but a portfolio is a great way to show off your s
 - Copy templates you like from sites like SquareSpace or WordPress
 - Go crazy and build whatever you want
 
-There's no right answer about how to build a portfolio, therefore, there's no set instructions for this project. Take your time with planning, outline what you want to create and the story you want to tell about yourself, and then go and build yourself a (responsive) site that shows off all of your development chops.
+There's no right answer about how to build a portfolio, therefore, there's no set instructions for this project. Take your time with planning, outline what you want to create and the story you want to tell about yourself, build yourself a site that shows off all of your development chops, and then deploy it for the world to see!
+
+**Learning opportunities:**
+- Building a responsive website
+- Deploying a project
