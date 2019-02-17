@@ -1,6 +1,6 @@
 ---
 home: true
-actionText: Start Something New →
+actionText: Build Something New →
 actionLink: /personal-projects/
 features:
 - title: Discover
