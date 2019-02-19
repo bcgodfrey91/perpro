@@ -20,7 +20,6 @@ Most of the following challenges fail to give a timeframe for you to work under,
 - [Calendar](/take-homes/calendar.html)
 - [Drag and Drop](/take-homes/drag-and-drop.html)
 - [Giphy Challenge](/take-homes/giphy.html)
-- [Idea Box](/take-homes/idea-box.html)
 - [Name in a Hat](/take-homes/name-in-a-hat.html)
 - [Replicate a Site](/take-homes/site-replication.html)
 - [To Do List](/take-homes/to-do-list.html)

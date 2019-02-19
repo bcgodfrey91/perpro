@@ -6,7 +6,7 @@ The Serverless Framework is an open-source framework made with Node.js, with the
 
 With the ability to not have to worry about scaling, Serverless provides a great option for those that are wanting to create a small-scale side project that they think could turn into something big.
 
-For those looking to get their feet wet, the [Anomaly Innovations](https://anoma.ly/) team provides [an extremely thorough tutorial](https://serverless-stack.com/) on how to build a Serverless backend with a React front end.
+For those looking to get their feet wet, the [Anomaly Innovations](https://anoma.ly/) team has provided [an extremely thorough tutorial](https://serverless-stack.com/) on how to build a Serverless application with a React front end.
 
 **Learning opportunities:**
 - Building a Serverless application
