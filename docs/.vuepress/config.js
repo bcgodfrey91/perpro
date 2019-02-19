@@ -26,7 +26,6 @@ module.exports = {
         'calendar',
         'drag-and-drop',
         'giphy',
-        'idea-box',
         'name-in-a-hat',
         'site-replication',
         'to-do-list',
