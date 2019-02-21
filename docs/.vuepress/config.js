@@ -24,7 +24,6 @@ module.exports = {
         'beer',
         'button',
         'calendar',
-        'drag-and-drop',
         'giphy',
         'name-in-a-hat',
         'site-replication',
